@@ -1,0 +1,5 @@
+C:\Users\jason\Documents\GitHub\Triangle\Polygon\Polygon\bin\Debug\Polygon.dll.config
+C:\Users\jason\Documents\GitHub\Triangle\Polygon\Polygon\bin\Debug\Polygon.dll
+C:\Users\jason\Documents\GitHub\Triangle\Polygon\Polygon\bin\Debug\Polygon.pdb
+C:\Users\jason\Documents\GitHub\Triangle\Polygon\Polygon\obj\Debug\Polygon.dll
+C:\Users\jason\Documents\GitHub\Triangle\Polygon\Polygon\obj\Debug\Polygon.pdb
