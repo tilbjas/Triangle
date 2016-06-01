@@ -1,0 +1,9 @@
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\bin\Debug\TriangleService.exe
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\bin\Debug\TriangleService.pdb
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\bin\Debug\Polygon.dll
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\bin\Debug\Polygon.pdb
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\obj\x86\Debug\TriangleService.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\obj\x86\Debug\TriangleService.ProjectInstaller.resources
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\obj\x86\Debug\TriangleService.csproj.GenerateResource.Cache
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\obj\x86\Debug\TriangleService.exe
+C:\Users\jason\Documents\GitHub\Triangle\TriangleService\TriangleService\obj\x86\Debug\TriangleService.pdb

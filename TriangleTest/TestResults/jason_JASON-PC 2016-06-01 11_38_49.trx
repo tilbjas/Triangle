@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="74bf2e25-4672-40cf-aba4-a863bda08363" name="jason@JASON-PC 2016-06-01 11:38:49" runUser="jason-PC\jason" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="60e1f095-4ffb-4f44-9c5b-8387eb1ff103">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jason_JASON-PC 2016-06-01 11_38_49" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-06-01T11:38:49.8121204+01:00" queuing="2016-06-01T11:38:50.9611862+01:00" start="2016-06-01T11:38:51.2462025+01:00" finish="2016-06-01T11:38:53.4273272+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\jason\documents\github\triangle\triangletest\triangletest\bin\debug\triangletest.dll" id="dc55f0bc-f101-470d-1541-4a85a3a70441">
+      <Execution id="d4d102aa-d76d-4b6c-9740-354a9b7aa0c8" />
+      <TestMethod codeBase="C:/Users/jason/Documents/GitHub/Triangle/TriangleTest/TriangleTest/bin/Debug/TriangleTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TriangleTest.UnitTest1, TriangleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="dc55f0bc-f101-470d-1541-4a85a3a70441" executionId="d4d102aa-d76d-4b6c-9740-354a9b7aa0c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d4d102aa-d76d-4b6c-9740-354a9b7aa0c8" testId="dc55f0bc-f101-470d-1541-4a85a3a70441" testName="TestMethod1" computerName="JASON-PC" duration="00:00:00.1976033" startTime="2016-06-01T11:38:51.4632149+01:00" endTime="2016-06-01T11:38:53.3443225+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4d102aa-d76d-4b6c-9740-354a9b7aa0c8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\jason\Polygon\">
+    <file relUrl="bin/Polygon.pdb" publishTime="05/26/2016 17:00:05" />
+    <file relUrl="Polygon.Service1.svc" publishTime="05/26/2016 20:00:40" />
+    <file relUrl="bin/Polygon.dll.config" publishTime="05/26/2016 15:25:00" />
+    <file relUrl="bin/Polygon.dll" publishTime="05/26/2016 17:00:05" />
+    <file relUrl="Web.config" publishTime="05/26/2016 15:25:00" />
+  </publishTarget>
+</publishData>

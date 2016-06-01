@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/Polygon" />
+  <xs:element name="getRHT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="height" type="xs:int" />
+        <xs:element minOccurs="0" name="width" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRHTResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Polygon" minOccurs="0" name="getRHTResult" nillable="true" type="q1:RightAngletriangle" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getArea">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Polygon" minOccurs="0" name="RHT" nillable="true" type="q2:RightAngletriangle" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getAreaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getAreaResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

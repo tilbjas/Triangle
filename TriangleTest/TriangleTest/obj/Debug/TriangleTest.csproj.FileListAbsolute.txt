@@ -1,0 +1,5 @@
+C:\Users\jason\Documents\GitHub\Triangle\TriangleTest\TriangleTest\bin\Debug\TriangleTest.dll.config
+C:\Users\jason\Documents\GitHub\Triangle\TriangleTest\TriangleTest\bin\Debug\TriangleTest.dll
+C:\Users\jason\Documents\GitHub\Triangle\TriangleTest\TriangleTest\bin\Debug\TriangleTest.pdb
+C:\Users\jason\Documents\GitHub\Triangle\TriangleTest\TriangleTest\obj\Debug\TriangleTest.dll
+C:\Users\jason\Documents\GitHub\Triangle\TriangleTest\TriangleTest\obj\Debug\TriangleTest.pdb
